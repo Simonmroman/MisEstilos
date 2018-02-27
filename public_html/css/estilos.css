@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2018, 7:46:49 PM
+    Author     : 00140007
+*/*{font: 1em/1.3 Arial, Helvetica, sans-serif; }
+
+p{color: #000080; }
+
+#primero p{color: #D81111; }
+
+a{color: #11D829; }
+
+#primero em{ background: #FFFFCC; padding: .1em; }
+
+
+.especial {background: #FFCC99; border: 1px solid #FF9900; padding: .1em; }
+
+.normal span{font-weight: bold; }
